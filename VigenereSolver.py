@@ -43,4 +43,5 @@ for a in c_upper:
     plain_text.append(list2d[0][y])
     index += 1
 
-print('%s' % ''.join(plain_text))
+print('%s\n' % ''.join(plain_text))
+
