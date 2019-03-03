@@ -10,7 +10,7 @@ ARGV = sys.argv
 # Print usage.
 def print_usage():
     print("")
-    print("Usage: python {0} <QR code image file>".format(argv[0]))
+    print("Usage: python {0} <QR code image file>".format(ARGV[0]))
     print("")
 
 
